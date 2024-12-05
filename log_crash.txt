@@ -1,4 +1,4 @@
-[INFO] - timeBeginPeriod( 1 )
+[INFO] - timeBeginPeriod( 2 )
 [INFO] - OpenGL version 4.6.0 NVIDIA 546.33
 [INFO] - GLSL version 4.60 NVIDIA
 [INFO] - Framebuffer ID: 1
